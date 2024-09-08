@@ -5,14 +5,14 @@
 
 	<ThingDef Abstract="True" Name="RPP_RechargeStation" ParentName="Base_X2_AIRobotRechargeStation" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
 		<minifiedDef>AIRobot_MinifiedRechargeStation</minifiedDef>
-		<thingCategories><li>BuildingsFurniture</li></thingCategories>
+		<thingCategories><li>RPP_Base_Stations</li></thingCategories>
 		<fillPercent>0.25</fillPercent>
 		<statBases>
 			<MaxHitPoints>50</MaxHitPoints>
 			<Mass>13</Mass>
 		</statBases>
 		<!-- added abstraction for potential future use -->
-	</ThingDef>>
+	</ThingDef>
 
 	<!--******** TIER META ********-->
 
@@ -106,7 +106,7 @@
 		<rechargeEfficiency>4.0</rechargeEfficiency>
 	</ThingDef>
 
-	<!--******** INHERET ********-->
+	<!--******** INHERIT ********-->
 
 <!-- override -->
 
