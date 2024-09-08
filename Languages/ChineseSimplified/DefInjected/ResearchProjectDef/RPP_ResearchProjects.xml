@@ -36,7 +36,7 @@
 	<RPP_Research_Omni_All.label>万能机</RPP_Research_Omni_All.label>
 	<RPP_Research_Omni_All.description>综合所有其他机器人工作的万能机器人的制作。</RPP_Research_Omni_All.description>
 
-	<RPP_Research_Omni_I.label>万能机 I</RPP_Research_Omni_I.label>
+	<!-- <RPP_Research_Omni_I.label>万能机 I</RPP_Research_Omni_I.label>
 	<RPP_Research_Omni_I.description>一种使用基础逻辑的万能机</RPP_Research_Omni_I.description>
 	<RPP_Research_Omni_II.label>万能机 II</RPP_Research_Omni_II.label>
 	<RPP_Research_Omni_II.description>一种使用简易逻辑的万能机</RPP_Research_Omni_II.description>
@@ -45,6 +45,6 @@
 	<RPP_Research_Omni_IV.label>万能机 IV</RPP_Research_Omni_IV.label>
 	<RPP_Research_Omni_IV.description>一种使用高阶逻辑的万能机</RPP_Research_Omni_IV.description>
 	<RPP_Research_Omni_V.label>万能机 V</RPP_Research_Omni_V.label>
-	<RPP_Research_Omni_V.description>一种使用反逻辑的万能机</RPP_Research_Omni_V.description>
+	<RPP_Research_Omni_V.description>一种使用反逻辑的万能机</RPP_Research_Omni_V.description> -->
 
 </LanguageData>

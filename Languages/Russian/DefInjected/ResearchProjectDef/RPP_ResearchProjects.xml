@@ -40,7 +40,7 @@
 	<RPP_Research_Omni_All.label>Мастер-боты</RPP_Research_Omni_All.label>
 	<RPP_Research_Omni_All.description>Открывает возможность для создания мастер-ботов - величайшего достижения робототехники! Настоящие мастера на все руки, способные выполнять любые виды работ.</RPP_Research_Omni_All.description>
 
-	<RPP_Research_Omni_I.label>Мастер-бот 1 поколения</RPP_Research_Omni_I.label>
+	<!-- <RPP_Research_Omni_I.label>Мастер-бот 1 поколения</RPP_Research_Omni_I.label>
 	<RPP_Research_Omni_I.description>Мастер-бот первого поколения, спроектированный на основе простой вычислительной матрицы.</RPP_Research_Omni_I.description>
 	<RPP_Research_Omni_II.label>Мастер-бот 2 поколения</RPP_Research_Omni_II.label>
 	<RPP_Research_Omni_II.description>Мастер-бот второго поколения, спроектированный на основе базовой вычислительной матрицы.</RPP_Research_Omni_II.description>
@@ -49,6 +49,6 @@
 	<RPP_Research_Omni_IV.label>Мастер-бот 4 поколения</RPP_Research_Omni_IV.label>
 	<RPP_Research_Omni_IV.description>Мастер-бот четвертого поколения, спроектированный на основе продвинутой вычислительной матрицы.</RPP_Research_Omni_IV.description>
 	<RPP_Research_Omni_V.label>Мастер-бот 5 поколения</RPP_Research_Omni_V.label>
-	<RPP_Research_Omni_V.description>Мастер-бот пятого поколения, спроектированный на основе нуль-логичной вычислительной матрицы.\n\nЛучший помощник в любом поселении!</RPP_Research_Omni_V.description>
+	<RPP_Research_Omni_V.description>Мастер-бот пятого поколения, спроектированный на основе нуль-логичной вычислительной матрицы.\n\nЛучший помощник в любом поселении!</RPP_Research_Omni_V.description> -->
 
 </LanguageData>
