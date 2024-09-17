@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<Current_Page>Current Page</Current_Page>
+
 	<MISC_Robots_Category>MiscRobots++</MISC_Robots_Category>
 	<Teir_0>Teir I Settings</Teir_0>
 	<Teir_1>Teir II Settings</Teir_1>
