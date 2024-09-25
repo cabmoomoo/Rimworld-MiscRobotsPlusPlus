@@ -503,17 +503,20 @@
 				<li>Smithing</li>
 				<li>Tailoring</li>
 				<li>Crafting</li>
+				<li>Research</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Smithing>1</Smithing>
 				<Tailoring>3</Tailoring>
 				<Crafting>2</Crafting>
+				<Research>0</Research>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
 			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
 			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
 			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+			<li><workTypeDef>Research</workTypeDef><priority>0</priority></li>
 		</robotWorkTypes>
 	</ThingDef>
 
@@ -526,17 +529,20 @@
 				<li>Smithing</li>
 				<li>Tailoring</li>
 				<li>Crafting</li>
+				<li>Research</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Smithing>1</Smithing>
 				<Tailoring>3</Tailoring>
 				<Crafting>2</Crafting>
+				<Research>0</Research>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
 			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
 			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
 			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+			<li><workTypeDef>Research</workTypeDef><priority>0</priority></li>
 		</robotWorkTypes>
 	</ThingDef>
 
@@ -549,17 +555,20 @@
 				<li>Smithing</li>
 				<li>Tailoring</li>
 				<li>Crafting</li>
+				<li>Research</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Smithing>1</Smithing>
 				<Tailoring>3</Tailoring>
 				<Crafting>2</Crafting>
+				<Research>0</Research>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
 			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
 			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
 			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+			<li><workTypeDef>Research</workTypeDef><priority>0</priority></li>
 		</robotWorkTypes>
 	</ThingDef>
 
@@ -572,17 +581,20 @@
 				<li>Smithing</li>
 				<li>Tailoring</li>
 				<li>Crafting</li>
+				<li>Research</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Smithing>1</Smithing>
 				<Tailoring>3</Tailoring>
 				<Crafting>2</Crafting>
+				<Research>0</Research>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
 			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
 			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
 			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+			<li><workTypeDef>Research</workTypeDef><priority>0</priority></li>
 		</robotWorkTypes>
 	</ThingDef>
 
@@ -595,17 +607,20 @@
 				<li>Smithing</li>
 				<li>Tailoring</li>
 				<li>Crafting</li>
+				<li>Research</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Smithing>1</Smithing>
 				<Tailoring>3</Tailoring>
 				<Crafting>2</Crafting>
+				<Research>0</Research>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
 			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
 			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
 			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+			<li><workTypeDef>Research</workTypeDef><priority>0</priority></li>
 		</robotWorkTypes>
 	</ThingDef>
 
