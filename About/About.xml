@@ -52,5 +52,8 @@ There are five tiers of robots:
   Tier 5 Anti-Logic robots have a work-skill of 20.
 
 If you would like to contribute fixes or features to R++ then please fork the Github repo and make a pull request with your changes. Please only contribute changes for the latest game versions (i.e. the `about` and `v1.5` folders). For translations, use the latest `/v#.#/Languages/English/` folder as a template (DON'T use the top level outdated `Languages`) and publish your own translation mod. Please feel free to reach out if you need assistance.
+
+Additional Credits:
+  Traditional and Simplified Chinese Translation: 追寻丶流星雨
 </description>
 </ModMetaData>

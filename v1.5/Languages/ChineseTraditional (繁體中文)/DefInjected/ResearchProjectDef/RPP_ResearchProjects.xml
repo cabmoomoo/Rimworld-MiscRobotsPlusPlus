@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<RPP_Research_Matrix_I.label>機器人矩陣：\n簡單邏輯</RPP_Research_Matrix_I.label>
+<RPP_Research_Matrix_I.description>等級1:研究製作簡單機器人矩陣單元，以製造具有工作等級4的機器人。</RPP_Research_Matrix_I.description>
+<RPP_Research_Matrix_II.label>機器人矩陣：\n基礎邏輯</RPP_Research_Matrix_II.label>
+<RPP_Research_Matrix_II.description>等級2:研究製作基礎機器人矩陣單元，以製造具有工作等級8的機器人。</RPP_Research_Matrix_II.description>
+<RPP_Research_Matrix_III.label>機器人矩陣：\n進階邏輯</RPP_Research_Matrix_III.label>
+<RPP_Research_Matrix_III.description>等級3:研究製作進階機器人矩陣單元，以製造具有工作等級13的機器人。</RPP_Research_Matrix_III.description>
+<RPP_Research_Matrix_IV.label>機器人矩陣：\n高級邏輯</RPP_Research_Matrix_IV.label>
+<RPP_Research_Matrix_IV.description>等級4:研究製作高級機器人矩陣單元，以製造具有工作等級16的機器人。</RPP_Research_Matrix_IV.description>
+<RPP_Research_Matrix_V.label>機器人矩陣：\n反邏輯\n（NP=P）</RPP_Research_Matrix_V.label>
+<RPP_Research_Matrix_V.description>等級5:打破現有科技水准、對邏輯的理解以及因果關係概念所設定的界限。 我們的科學正變得越來越不可預測。 研究製作反邏輯機器人矩陣單元，以製造具有工作等級20的機器人。</RPP_Research_Matrix_V.description>
+
+<RPP_Research_Fundamentals.label>機器人矩陣：\n基本原理</RPP_Research_Fundamentals.label>
+<RPP_Research_Fundamentals.description>等級0:\n對機器人矩陣和自動化原理的簡單研究。</RPP_Research_Fundamentals.description>
+
+<RPP_Research_Cleaner_All.label>清潔機</RPP_Research_Cleaner_All.label>
+<RPP_Research_Cleaner_All.description>製造清潔機。 同一等級的搬運機和清潔機比其他機器人移動速度更快。</RPP_Research_Cleaner_All.description>
+
+<RPP_Research_Hauler_All.label>搬運機</RPP_Research_Hauler_All.label>
+<RPP_Research_Hauler_All.description>製造搬運機。 同一等級的搬運機和清潔機比其他機器人移動速度更快。</RPP_Research_Hauler_All.description>
+
+<RPP_Research_Builder_All.label>建造機</RPP_Research_Builder_All.label>
+<RPP_Research_Builder_All.description>製造建造+採礦機器人。</RPP_Research_Builder_All.description>
+
+<RPP_Research_Crafter_All.label>工藝機</RPP_Research_Crafter_All.label>
+<RPP_Research_Crafter_All.description>製造生產製造機器人。</RPP_Research_Crafter_All.description>
+
+<RPP_Research_ER_All.label>急救機</RPP_Research_ER_All.label>
+<RPP_Research_ER_All.description>製造緊急救援及救火的機器人。</RPP_Research_ER_All.description>
+
+<RPP_Research_Kitchen_All.label>廚藝機</RPP_Research_Kitchen_All.label>
+<RPP_Research_Kitchen_All.description>製造一個簡單的廚師和園藝機器人。</RPP_Research_Kitchen_All.description>
+
+<RPP_Research_Omni_All.label>全能-機器人矩陣</RPP_Research_Omni_All.label>
+<RPP_Research_Omni_All.description>製造一個能够完成其他機器人所有工作的機器人。</RPP_Research_Omni_All.description>
+
+<!--<RPP_Research_Omni_I.label>全能機器人I</RPP_Research_Omni_I.label>
+<RPP_Research_Omni_I.description>一臺簡單智慧的全能機器人.</RPP_Research_Omni_I.description>
+<RPP_Research_Omni_II.label>全能機器人II</RPP_Research_Omni_II.label>
+<RPP_Research_Omni_II.description>一臺基礎智慧的全能機器人.</RPP_Research_Omni_II.description>
+<RPP_Research_Omni_III.label>全能機器人III</RPP_Research_Omni_III.label>
+<RPP_Research_Omni_III.description>一臺進階智慧的全能機器人.</RPP_Research_Omni_III.description>
+<RPP_Research_Omni_IV.label>全能機器人IV</RPP_Research_Omni_IV.label>
+<RPP_Research_Omni_IV.description>一臺高級智慧的全能機器人.</RPP_Research_Omni_IV.description>
+<RPP_Research_Omni_V.label>全能機器人V</RPP_Research_Omni_V.label>
+<RPP_Research_Omni_V.description>一臺反邏輯智慧的全能機器人.</RPP_Research_Omni_V.description>-->
+
+</LanguageData>

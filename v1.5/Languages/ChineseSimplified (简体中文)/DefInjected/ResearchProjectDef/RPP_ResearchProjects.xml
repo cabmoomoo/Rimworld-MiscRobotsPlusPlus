@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Research_Matrix_I.label>机器人矩阵:\n简单逻辑</RPP_Research_Matrix_I.label>
+	<RPP_Research_Matrix_I.description>等级 1: 研究制作简单机器人矩阵单元，以制造具有工作等级4的机器人。</RPP_Research_Matrix_I.description>
+	<RPP_Research_Matrix_II.label>机器人矩阵:\n基础逻辑</RPP_Research_Matrix_II.label>
+	<RPP_Research_Matrix_II.description>等级 2: 研究制作基础机器人矩阵单元，以制造具有工作等级8的机器人。</RPP_Research_Matrix_II.description>
+	<RPP_Research_Matrix_III.label>机器人矩阵:\n进阶逻辑</RPP_Research_Matrix_III.label>
+	<RPP_Research_Matrix_III.description>等级 3: 研究制作进阶机器人矩阵单元，以制造具有工作等级13的机器人。</RPP_Research_Matrix_III.description>
+	<RPP_Research_Matrix_IV.label>机器人矩阵:\n高级逻辑</RPP_Research_Matrix_IV.label>
+	<RPP_Research_Matrix_IV.description>等级 4: 研究制作高级机器人矩阵单元，以制造具有工作等级16的机器人。</RPP_Research_Matrix_IV.description>
+	<RPP_Research_Matrix_V.label>机器人矩阵:\n反逻辑\n(NP=P)</RPP_Research_Matrix_V.label>
+	<RPP_Research_Matrix_V.description>等级 5: 打破现有技术水平、对逻辑的理解以及因果关系概念所设定的界限。我们的科学正变得越来越不可预测。研究制作反逻辑机器人矩阵单元，以制造具有工作等级20的机器人。</RPP_Research_Matrix_V.description>
+
+	<RPP_Research_Fundamentals.label>机器人矩阵:\n基本原理</RPP_Research_Fundamentals.label>
+	<RPP_Research_Fundamentals.description>等级 0:\n对机器人矩阵和自动化原理的简单研究。</RPP_Research_Fundamentals.description>
+
+	<RPP_Research_Cleaner_All.label>清洁机</RPP_Research_Cleaner_All.label>
+	<RPP_Research_Cleaner_All.description>制造清洁机。同一等级的搬运机和清洁机比其他机器人移动速度更快。</RPP_Research_Cleaner_All.description>
+
+	<RPP_Research_Hauler_All.label>搬运机</RPP_Research_Hauler_All.label>
+	<RPP_Research_Hauler_All.description>制造搬运机。同一等级的搬运机和清洁机比其他机器人移动速度更快。</RPP_Research_Hauler_All.description>
+
+	<RPP_Research_Builder_All.label>建造机</RPP_Research_Builder_All.label>
+	<RPP_Research_Builder_All.description>制造建造+采矿机器人。</RPP_Research_Builder_All.description>
+
+	<RPP_Research_Crafter_All.label>工艺机</RPP_Research_Crafter_All.label>
+	<RPP_Research_Crafter_All.description>制造生产制造机器人。</RPP_Research_Crafter_All.description>
+
+	<RPP_Research_ER_All.label>急救机</RPP_Research_ER_All.label>
+	<RPP_Research_ER_All.description>制造紧急救援及救火的机器人。</RPP_Research_ER_All.description>
+
+	<RPP_Research_Kitchen_All.label>厨艺机</RPP_Research_Kitchen_All.label>
+	<RPP_Research_Kitchen_All.description>制造一个简单的厨师和园艺机器人。</RPP_Research_Kitchen_All.description>
+
+	<RPP_Research_Omni_All.label>全能-机器人矩阵</RPP_Research_Omni_All.label>
+	<RPP_Research_Omni_All.description>制造一个能够完成其他机器人所有工作的机器人。</RPP_Research_Omni_All.description>
+
+	<!-- <RPP_Research_Omni_I.label>全能机器人 I</RPP_Research_Omni_I.label>
+	<RPP_Research_Omni_I.description>一台简单智能的全能机器人.</RPP_Research_Omni_I.description>
+	<RPP_Research_Omni_II.label>全能机器人 II</RPP_Research_Omni_II.label>
+	<RPP_Research_Omni_II.description>一台基础智能的全能机器人.</RPP_Research_Omni_II.description>
+	<RPP_Research_Omni_III.label>全能机器人 III</RPP_Research_Omni_III.label>
+	<RPP_Research_Omni_III.description>一台进阶智能的全能机器人.</RPP_Research_Omni_III.description>
+	<RPP_Research_Omni_IV.label>全能机器人 IV</RPP_Research_Omni_IV.label>
+	<RPP_Research_Omni_IV.description>一台高级智能的全能机器人.</RPP_Research_Omni_IV.description>
+	<RPP_Research_Omni_V.label>全能机器人 V</RPP_Research_Omni_V.label>
+	<RPP_Research_Omni_V.description>一台反逻辑智能的全能机器人.</RPP_Research_Omni_V.description> -->
+
+</LanguageData>

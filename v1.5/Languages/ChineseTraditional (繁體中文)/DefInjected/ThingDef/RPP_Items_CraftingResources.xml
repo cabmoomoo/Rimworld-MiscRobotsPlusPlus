@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+
+	<RPP_Component.label>機器人組件</RPP_Component.label>
+	<RPP_Component.description>機器人組件是用於製作機器人矩陣的電路組件。</RPP_Component.description>
+
+	<RPP_Matrix_I.label>機器人矩陣（簡單）</RPP_Matrix_I.label>
+	<RPP_Matrix_I.description>機器人邏輯矩陣。 採用簡單指令集設計，使其能够以4級的技能水准執行合適的任務。</RPP_Matrix_I.description>
+
+	<RPP_Matrix_II.label>機器人矩陣（基礎）</RPP_Matrix_II.label>
+	<RPP_Matrix_II.description>機器人邏輯矩陣。 採用基礎指令集設計，使其能够以8級的技能水准執行合適的任務。</RPP_Matrix_II.description>
+
+	<RPP_Matrix_III.label>機器人矩陣（進階）</RPP_Matrix_III.label>
+	<RPP_Matrix_III.description>機器人邏輯矩陣。 採用進階指令集設計，使其能够以13級的技能水准執行合適的任務。</RPP_Matrix_III.description>
+
+	<RPP_Matrix_IV.label>機器人矩陣（高級）</RPP_Matrix_IV.label>
+	<RPP_Matrix_IV.description>機器人邏輯矩陣。 採用高級指令集設計，使其能够以16級的技能水准執行合適的任務。</RPP_Matrix_IV.description>
+
+	<RPP_Matrix_V.label>機器人矩陣（反邏輯）</RPP_Matrix_V.label>
+	<RPP_Matrix_V.description>機器人邏輯矩陣。 採用反邏輯指令集設計，使其能够以20級的技能水准執行合適的任務。(NP=P)</RPP_Matrix_V.description>
+
+</LanguageData>

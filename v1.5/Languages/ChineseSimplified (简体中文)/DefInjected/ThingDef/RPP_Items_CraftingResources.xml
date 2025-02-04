@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+
+	<RPP_Component.label>机器人组件</RPP_Component.label>
+	<RPP_Component.description>机器人组件是用于制作机器人矩阵的电路组件。</RPP_Component.description>
+
+	<RPP_Matrix_I.label>机器人矩阵(简单)</RPP_Matrix_I.label>
+	<RPP_Matrix_I.description>机器人逻辑矩阵。采用简单指令集设计，使其能够以4级的技能水平执行合适的任务。</RPP_Matrix_I.description>
+
+	<RPP_Matrix_II.label>机器人矩阵(基础)</RPP_Matrix_II.label>
+	<RPP_Matrix_II.description>机器人逻辑矩阵。采用基础指令集设计，使其能够以8级的技能水平执行合适的任务。</RPP_Matrix_II.description>
+
+	<RPP_Matrix_III.label>机器人矩阵(进阶)</RPP_Matrix_III.label>
+	<RPP_Matrix_III.description>机器人逻辑矩阵。采用进阶指令集设计，使其能够以13级的技能水平执行合适的任务。</RPP_Matrix_III.description>
+
+	<RPP_Matrix_IV.label>机器人矩阵(高级)</RPP_Matrix_IV.label>
+	<RPP_Matrix_IV.description>机器人逻辑矩阵。采用高级指令集设计，使其能够以16级的技能水平执行合适的任务。</RPP_Matrix_IV.description>
+
+	<RPP_Matrix_V.label>机器人矩阵(反逻辑)</RPP_Matrix_V.label>
+	<RPP_Matrix_V.description>机器人逻辑矩阵。采用反逻辑指令集设计，使其能够以20级的技能水平执行合适的任务。(NP=P)</RPP_Matrix_V.description>
+
+</LanguageData>
