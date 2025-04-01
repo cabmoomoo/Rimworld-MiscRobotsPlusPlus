@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+    Provided by Steam user 幸运长笛 in workshop comments on Mar 21, 2025
+    https://steamcommunity.com/profiles/76561198988287918
+-->
+<Patch>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Pick Up And Haul</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[@Name="Base_X2_AIRobot"]/comps</xpath>
+                    <value>
+                        <li>
+                            <compClass>PickUpAndHaul.CompHauledToInventory</compClass>
+                        </li>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+</Patch> 
