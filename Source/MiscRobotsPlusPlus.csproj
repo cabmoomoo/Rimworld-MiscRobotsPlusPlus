@@ -2,6 +2,7 @@
 	<PropertyGroup>
 		<TargetFramework>net472</TargetFramework>
 		<LangVersion>Latest</LangVersion>
+		<ImplicitUsings>enable</ImplicitUsings>
 		
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 		<OutputPath>..\v1.6\Assemblies\</OutputPath>
