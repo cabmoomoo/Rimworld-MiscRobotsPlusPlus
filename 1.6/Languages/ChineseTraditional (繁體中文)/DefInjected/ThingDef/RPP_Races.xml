@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--[Duplicate]
+	<AIRobot_Hauler.label>搬運機</AIRobot_Hauler.label>
+	<AIRobot_Hauler.description>一臺簡單智慧搬運機。</ AIRobot_Hauler.description>
+	-->
+	<AIRobot_Hauler_II.label>搬運機</AIRobot_Hauler_II.label>
+	<AIRobot_Hauler_II.description>一臺基礎智慧搬運機。</AIRobot_Hauler_II.description>
+	<AIRobot_Hauler_III.label>搬運機</AIRobot_Hauler_III.label>
+	<AIRobot_Hauler_III.description>一臺進階智慧搬運機。</AIRobot_Hauler_III.description>
+	<AIRobot_Hauler_IV.label>搬運機</AIRobot_Hauler_IV.label>
+	<AIRobot_Hauler_IV.description>一臺高級智慧搬運機。</AIRobot_Hauler_IV.description>
+	<AIRobot_Hauler_V.label>搬運機</AIRobot_Hauler_V.label>
+	<AIRobot_Hauler_V.description>一臺反邏輯智慧搬運機。</AIRobot_Hauler_V.description>
+	
+	<!--[Duplicate]
+	<AIRobot_Cleaner.label>清潔機</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner.description>一臺簡單智慧清潔機。</AIRobot_Cleaner.description>
+	-->
+	<AIRobot_Cleaner_II.label>清潔機</AIRobot_Cleaner_II.label>
+	<AIRobot_Cleaner_II.description>一臺基礎智慧清潔機。</AIRobot_Cleaner_II.description>
+	<AIRobot_Cleaner_III.label>清潔機</AIRobot_Cleaner_III.label>
+	<AIRobot_Cleaner_III.description>一臺進階智慧清潔機。</AIRobot_Cleaner_III.description>
+	<AIRobot_Cleaner_IV.label>清潔機</AIRobot_Cleaner_IV.label>
+	<AIRobot_Cleaner_IV.description>一臺高級智慧清潔機。</AIRobot_Cleaner_IV.description>
+	<AIRobot_Cleaner_V.label>清潔機</AIRobot_Cleaner_V.label>
+	<AIRobot_Cleaner_V.description>一臺反邏輯智慧清潔機。</AIRobot_Cleaner_V.description>
+	
+	<RPP_Bot_Builder_I.label>建造機</RPP_Bot_Builder_I.label>
+	<RPP_Bot_Builder_I.description>一臺能够建造、拆除、修復和採礦的等級為I（工作等級4）的建造機。</RPP_Bot_Builder_I.description>
+	<RPP_Bot_Builder_II.label>建造機</RPP_Bot_Builder_II.label>
+	<RPP_Bot_Builder_II.description>一臺能够建造、拆除、修復和採礦的等級為II（工作等級8）的建造機。</RPP_Bot_Builder_II.description>
+	<RPP_Bot_Builder_III.label>建造機</RPP_Bot_Builder_III.label>
+	<RPP_Bot_Builder_III.description>一臺能够建造、拆除、修復和採礦的等級為III（工作等級13）的建造機。</RPP_Bot_Builder_III.description>
+	<RPP_Bot_Builder_IV.label>建造機</RPP_Bot_Builder_IV.label>
+	<RPP_Bot_Builder_IV.description>一臺能够建造、拆除、修復和採礦的等級為IV（工作等級16）的建造機。</RPP_Bot_Builder_IV.description>
+	<RPP_Bot_Builder_V.label>建造機</RPP_Bot_Builder_V.label>
+	<RPP_Bot_Builder_V.description>一臺能够建造、拆除、修復和採礦的等級為V（工作等級20）的建造機。</RPP_Bot_Builder_V.description>
+	
+	<RPP_Bot_Crafter_I.label>工藝機</RPP_Bot_Crafter_I.label>
+	<RPP_Bot_Crafter_I.description>一臺能够製作、鍛造和縫紉的等級為I（工作等級4）的工藝機。</RPP_Bot_Crafter_I.description>
+	<RPP_Bot_Crafter_II.label>工藝機</RPP_Bot_Crafter_II.label>
+	<RPP_Bot_Crafter_II.description>一臺能够製作、鍛造和縫紉的等級為II（工作等級8）的工藝機。</RPP_Bot_Crafter_II.description>
+	<RPP_Bot_Crafter_III.label>工藝機</RPP_Bot_Crafter_III.label>
+	<RPP_Bot_Crafter_III.description>一臺能够製作、鍛造和縫紉的等級為III（工作等級13）的工藝機。</RPP_Bot_Crafter_III.description>
+	<RPP_Bot_Crafter_IV.label>工藝機</RPP_Bot_Crafter_IV.label>
+	<RPP_Bot_Crafter_IV.description>一臺能够製作、鍛造和縫紉的等級為IV（工作等級16）的工藝機。</RPP_Bot_Crafter_IV.description>
+	<RPP_Bot_Crafter_V.label>工藝機</RPP_Bot_Crafter_V.label>
+	<RPP_Bot_Crafter_V.description>一臺能够製作、鍛造和縫紉的等級為V（工作等級20）的工藝機。</RPP_Bot_Crafter_V.description>
+	
+	<RPP_Bot_ER_I.label>急救機</RPP_Bot_ER_I.label>
+	<RPP_Bot_ER_I.description>一臺能够照顧病人和救火的等級為I（工作等級4）的急救機。</RPP_Bot_ER_I.description>
+	<RPP_Bot_ER_II.label>急救機</RPP_Bot_ER_II.label>
+	<RPP_Bot_ER_II.description>一臺能够照顧病人和救火的等級為II（工作等級8）的急救機。</RPP_Bot_ER_II.description>
+	<RPP_Bot_ER_III.label>急救機</RPP_Bot_ER_III.label>
+	<RPP_Bot_ER_III.description>一臺能够照顧病人和救火的等級為III（工作等級13）的急救機。</RPP_Bot_ER_III.description>
+	<RPP_Bot_ER_IV.label>急救機</RPP_Bot_ER_IV.label>
+	<RPP_Bot_ER_IV.description>一臺能够照顧病人和救火的等級為IV（工作等級16）的急救機。</RPP_Bot_ER_IV.description>
+	<RPP_Bot_ER_V.label>急救機</RPP_Bot_ER_V.label>
+	<RPP_Bot_ER_V.description>一臺能够照顧病人和救火的等級為V（工作等級20）的急救機。</RPP_Bot_ER_V.description>
+	
+	<RPP_Bot_Kitchen_I.label>廚藝機</RPP_Bot_Kitchen_I.label>
+	<RPP_Bot_Kitchen_I.description>一臺能够烹飪和照看植物的等級為I（工作等級4）的廚藝機。</RPP_Bot_Kitchen_I.description>
+	<RPP_Bot_Kitchen_II.label>廚藝機</RPP_Bot_Kitchen_II.label>
+	<RPP_Bot_Kitchen_II.description>一臺能够烹飪和照看植物的等級為II（工作等級8）的廚藝機。</RPP_Bot_Kitchen_II.description>
+	<RPP_Bot_Kitchen_III.label>廚藝機</RPP_Bot_Kitchen_III.label>
+	<RPP_Bot_Kitchen_III.description>一臺能够烹飪和照看植物的等級為III（工作等級13）的廚藝機。</RPP_Bot_Kitchen_III.description>
+	<RPP_Bot_Kitchen_IV.label>廚藝機</RPP_Bot_Kitchen_IV.label>
+	<RPP_Bot_Kitchen_IV.description>一臺能够烹飪和照看植物的等級為IV（工作等級16）的廚藝機。</RPP_Bot_Kitchen_IV.description>
+	<RPP_Bot_Kitchen_V.label>廚藝機</RPP_Bot_Kitchen_V.label>
+	<RPP_Bot_Kitchen_V.description>一臺能够烹飪和照看植物的等級為V（工作等級20）的廚藝機。</RPP_Bot_Kitchen_V.description>
+	
+	<RPP_Bot_Omni_I.label>全能機</RPP_Bot_Omni_I.label>
+	<RPP_Bot_Omni_I.description>一臺能够完成其他所有機器人工作的等級為I（工作等級4）的全能機.（NP=P）</RPP_Bot_Omni_I.description>
+	<RPP_Bot_Omni_II.label>全能機</RPP_Bot_Omni_II.label>
+	<RPP_Bot_Omni_II.description>一臺能够完成其他所有機器人工作的等級為II（工作等級8）的全能機。（NP=P）</RPP_Bot_Omni_II.description>
+	<RPP_Bot_Omni_III.label>全能機</RPP_Bot_Omni_III.label>
+	<RPP_Bot_Omni_III.description>一臺能够完成其他所有機器人工作的等級為III（工作等級13）的全能機。（NP=P）</RPP_Bot_Omni_III.description>
+	<RPP_Bot_Omni_IV.label>全能機</RPP_Bot_Omni_IV.label>
+	<RPP_Bot_Omni_IV.description>一臺能够完成其他所有機器人工作的等級為IV（工作等級16）的全能機。（NP=P）</RPP_Bot_Omni_IV.description>
+	<RPP_Bot_Omni_V.label>全能機</RPP_Bot_Omni_V.label>
+	<RPP_Bot_Omni_V.description>一臺能够完成其他所有機器人工作的等級為V（工作等級20）的全能機。（NP=P）</RPP_Bot_Omni_V.description>
+	
+</LanguageData>

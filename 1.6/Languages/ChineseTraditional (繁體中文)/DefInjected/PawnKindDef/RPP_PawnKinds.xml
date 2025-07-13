@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIRobot_Hauler.label>搬運機（等級I）</AIRobot_Hauler.label>
+	<AIRobot_Hauler_II.label>搬運機（等級II）</AIRobot_Hauler_II.label>
+	<AIRobot_Hauler_III.label>搬運機 (等級III)</AIRobot_Hauler_III.label>
+	<AIRobot_Hauler_IV.label>搬運機 (等級IV)</AIRobot_Hauler_IV.label>
+	<AIRobot_Hauler_V.label>搬運機 (等級V)</AIRobot_Hauler_V.label>
+
+	<AIRobot_Cleaner.label>清潔機 (等級I)</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner_II.label>清潔機 (等級II)</AIRobot_Cleaner_II.label>
+	<AIRobot_Cleaner_III.label>清潔機 (等級III)</AIRobot_Cleaner_III.label>
+	<AIRobot_Cleaner_IV.label>清潔機 (等級IV)</AIRobot_Cleaner_IV.label>
+	<AIRobot_Cleaner_V.label>清潔機 (等級V)</AIRobot_Cleaner_V.label>
+
+	<RPP_Bot_Builder_I.label>建造機 (等級I)</RPP_Bot_Builder_I.label>
+	<RPP_Bot_Builder_II.label>建造機 (等級II)</RPP_Bot_Builder_II.label>
+	<RPP_Bot_Builder_III.label>建造機 (等級III)</RPP_Bot_Builder_III.label>
+	<RPP_Bot_Builder_IV.label>建造機 (等級IV)</RPP_Bot_Builder_IV.label>
+	<RPP_Bot_Builder_V.label>建造機 (等級V)</RPP_Bot_Builder_V.label>
+
+	<RPP_Bot_Crafter_I.label>工藝機 (等級I)</RPP_Bot_Crafter_I.label>
+	<RPP_Bot_Crafter_II.label>工藝機 (等級II)</RPP_Bot_Crafter_II.label>
+	<RPP_Bot_Crafter_III.label>工藝機 (等級III)</RPP_Bot_Crafter_III.label>
+	<RPP_Bot_Crafter_IV.label>工藝機 (等級IV)</RPP_Bot_Crafter_IV.label>
+	<RPP_Bot_Crafter_V.label>工藝機 (等級V)</RPP_Bot_Crafter_V.label>
+
+	<RPP_Bot_ER_I.label>急救機 (等級I)</RPP_Bot_ER_I.label>
+	<RPP_Bot_ER_II.label>急救機 (等級II)</RPP_Bot_ER_II.label>
+	<RPP_Bot_ER_III.label>急救機 (等級III)</RPP_Bot_ER_III.label>
+	<RPP_Bot_ER_IV.label>急救機 (等級IV)</RPP_Bot_ER_IV.label>
+	<RPP_Bot_ER_V.label>急救機 (等級V)</RPP_Bot_ER_V.label>
+
+	<RPP_Bot_Kitchen_I.label>廚藝機 (等級I)</RPP_Bot_Kitchen_I.label>
+	<RPP_Bot_Kitchen_II.label>廚藝機 (等級II)</RPP_Bot_Kitchen_II.label>
+	<RPP_Bot_Kitchen_III.label>廚藝機 (等級III)</RPP_Bot_Kitchen_III.label>
+	<RPP_Bot_Kitchen_IV.label>廚藝機 (等級IV)</RPP_Bot_Kitchen_IV.label>
+	<RPP_Bot_Kitchen_V.label>廚藝機 (等級V)</RPP_Bot_Kitchen_V.label>
+
+	<RPP_Bot_Omni_I.label>全能機 (等級I)</RPP_Bot_Omni_I.label>
+	<RPP_Bot_Omni_II.label>全能機 (等級II)</RPP_Bot_Omni_II.label>
+	<RPP_Bot_Omni_III.label>全能機 (等級III)</RPP_Bot_Omni_III.label>
+	<RPP_Bot_Omni_IV.label>全能機 (等級IV)</RPP_Bot_Omni_IV.label>
+	<RPP_Bot_Omni_V.label>全能機 (等級V)</RPP_Bot_Omni_V.label>
+
+
+</LanguageData>

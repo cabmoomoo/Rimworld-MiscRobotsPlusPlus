@@ -1,26 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-<name>Misc. Robots++</name>
-<authors>
-	<li>cabmoomoo</li>
-</authors>
-<packageId>Alaestor.MiscRobots.PlusPlus</packageId>
-<url>https://github.com/cabmoomoo/Rimworld-MiscRobotsPlusPlus</url>
-<supportedVersions><li>1.0</li><li>1.1</li><li>1.2</li><li>1.3</li><li>1.4</li><li>1.5</li></supportedVersions>
-<modDependencies>
-	<li>
-		<packageId>Haplo.Miscellaneous.Robots</packageId>
-		<displayName>Misc. Robots</displayName>
-		<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=724602224</steamWorkshopUrl>
-	</li>
+  <name>Misc. Robots++</name>
+  <authors>
+    <li>cabmoomoo</li>
+  </authors>
+  <packageId>Alaestor.MiscRobots.PlusPlus</packageId>
+  <url>https://github.com/cabmoomoo/Rimworld-MiscRobotsPlusPlus</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
     <li>
-        <packageId>brrainz.harmony</packageId>
-        <displayName>Harmony</displayName>
-        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+      <packageId>Haplo.Miscellaneous.Robots</packageId>
+      <displayName>Misc. Robots</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=724602224</steamWorkshopUrl>
     </li>
-</modDependencies>
-<description>Mod Version: 3.9.2
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <description>Mod Version: 3.9.2
 
 *** Example Load Order ***
 - Core and DLC
@@ -55,5 +63,5 @@ If you would like to contribute fixes or features to R++ then please fork the Gi
 
 Additional Credits:
   Traditional and Simplified Chinese Translation: 追寻丶流星雨
-</description>
+  </description>
 </ModMetaData>
