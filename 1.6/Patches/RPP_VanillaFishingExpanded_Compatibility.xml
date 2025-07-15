@@ -14,7 +14,12 @@
                             defName="RPP_Bot_Kitchen_II" or
                             defName="RPP_Bot_Kitchen_III" or
                             defName="RPP_Bot_Kitchen_IV" or
-                            defName="RPP_Bot_Kitchen_V"
+                            defName="RPP_Bot_Kitchen_V" or
+                            defName="RPP_Bot_Omni_I" or
+                            defName="RPP_Bot_Omni_II" or
+                            defName="RPP_Bot_Omni_III" or
+                            defName="RPP_Bot_Omni_IV" or
+                            defName="RPP_Bot_Omni_V"
                         ]
                         /robotWorkTypes
                     </xpath>
@@ -25,11 +30,15 @@
 				<li Class="PatchOperationAdd">
 					<xpath>Defs/ThingDef
                         [
-                            defName="AIRobot_Hauler" or
-                            defName="AIRobot_Hauler_II" or
-                            defName="AIRobot_Hauler_III" or
-                            defName="AIRobot_Hauler_IV" or
-                            defName="AIRobot_Hauler_V" or 
+                            defName="RPP_Bot_Kitchen" or
+                            defName="RPP_Bot_Kitchen_II" or
+                            defName="RPP_Bot_Kitchen_III" or
+                            defName="RPP_Bot_Kitchen_IV" or
+                            defName="RPP_Bot_Kitchen_V" or 
+                            defName="RPP_Bot_Omni" or
+                            defName="RPP_Bot_Omni_II" or
+                            defName="RPP_Bot_Omni_III" or
+                            defName="RPP_Bot_Omni_IV" or
 							defName="RPP_Bot_Omni_V"
                         ]
                         /race/mechEnabledWorkTypes</xpath>
