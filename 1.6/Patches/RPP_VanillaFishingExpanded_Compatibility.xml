@@ -2,51 +2,56 @@
 <Patch>
 	<Operation Class="PatchOperationFindMod">
 		<mods>
-			<li>Vanilla Fishing Expanded</li>
+			<li>Odyssey</li>
 		</mods>
-		<match Class="PatchOperationSequence">
-			<success>Always</success>
-			<operations>
-				<li Class="PatchOperationAdd">
-					<xpath>Defs/ThingDef
-                        [
-                            defName="RPP_Bot_Kitchen_I" or
-                            defName="RPP_Bot_Kitchen_II" or
-                            defName="RPP_Bot_Kitchen_III" or
-                            defName="RPP_Bot_Kitchen_IV" or
-                            defName="RPP_Bot_Kitchen_V" or
-                            defName="RPP_Bot_Omni_I" or
-                            defName="RPP_Bot_Omni_II" or
-                            defName="RPP_Bot_Omni_III" or
-                            defName="RPP_Bot_Omni_IV" or
-                            defName="RPP_Bot_Omni_V"
-                        ]
-                        /robotWorkTypes
-                    </xpath>
-					<value>
-                        <li><workTypeDef>VCEF_Fishing</workTypeDef><priority>4</priority></li>
-					</value>
-				</li>
-				<li Class="PatchOperationAdd">
-					<xpath>Defs/ThingDef
-                        [
-                            defName="RPP_Bot_Kitchen" or
-                            defName="RPP_Bot_Kitchen_II" or
-                            defName="RPP_Bot_Kitchen_III" or
-                            defName="RPP_Bot_Kitchen_IV" or
-                            defName="RPP_Bot_Kitchen_V" or 
-                            defName="RPP_Bot_Omni" or
-                            defName="RPP_Bot_Omni_II" or
-                            defName="RPP_Bot_Omni_III" or
-                            defName="RPP_Bot_Omni_IV" or
-							defName="RPP_Bot_Omni_V"
-                        ]
-                        /race/mechEnabledWorkTypes</xpath>
-					<value>
-                        <li>VCEF_Fishing</li>
-					</value>
-				</li>
-			</operations>
-		</match>
-	</Operation>
+        <nomatch Class="PatchOperationFindMod">
+            <mods>
+                <li>Vanilla Fishing Expanded</li>
+            </mods>
+            <match Class="PatchOperationSequence">
+                <success>Always</success>
+                <operations>
+                    <li Class="PatchOperationAdd">
+                        <xpath>Defs/ThingDef
+                            [
+                                defName="RPP_Bot_Kitchen_I" or
+                                defName="RPP_Bot_Kitchen_II" or
+                                defName="RPP_Bot_Kitchen_III" or
+                                defName="RPP_Bot_Kitchen_IV" or
+                                defName="RPP_Bot_Kitchen_V" or
+                                defName="RPP_Bot_Omni_I" or
+                                defName="RPP_Bot_Omni_II" or
+                                defName="RPP_Bot_Omni_III" or
+                                defName="RPP_Bot_Omni_IV" or
+                                defName="RPP_Bot_Omni_V"
+                            ]
+                            /robotWorkTypes
+                        </xpath>
+                        <value>
+                            <li><workTypeDef>VCEF_Fishing</workTypeDef><priority>4</priority></li>
+                        </value>
+                    </li>
+                    <li Class="PatchOperationAdd">
+                        <xpath>Defs/ThingDef
+                            [
+                                defName="RPP_Bot_Kitchen" or
+                                defName="RPP_Bot_Kitchen_II" or
+                                defName="RPP_Bot_Kitchen_III" or
+                                defName="RPP_Bot_Kitchen_IV" or
+                                defName="RPP_Bot_Kitchen_V" or 
+                                defName="RPP_Bot_Omni" or
+                                defName="RPP_Bot_Omni_II" or
+                                defName="RPP_Bot_Omni_III" or
+                                defName="RPP_Bot_Omni_IV" or
+                                defName="RPP_Bot_Omni_V"
+                            ]
+                            /race/mechEnabledWorkTypes</xpath>
+                        <value>
+                            <li>VCEF_Fishing</li>
+                        </value>
+                    </li>
+                </operations>
+            </match>
+        </nomatch>
+    </Operation>
 </Patch>
